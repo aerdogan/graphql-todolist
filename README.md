@@ -1,18 +1,19 @@
 # graphql-todolist
 GraphQL ToDo List
 
-used packages...
+used packages...<br />
 
-dotnet new web -n graphql-todolist
-dotnet add package Microsoft.EntityFrameworkCore.Design
-dotnet add package Microsoft.EntityFrameworkCore.Sqlite
-dotnet add package HotChocolate.AspNetCore
-dotnet add package HotChocolate.Data.EntityFramework
-dotnet add package GraphQL.Server.Ui.Voyager
+dotnet new web -n graphql-todolist <br />
+dotnet add package Microsoft.EntityFrameworkCore.Design<br />
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite<br />
+dotnet add package HotChocolate.AspNetCore<br />
+dotnet add package HotChocolate.Data.EntityFramework<br />
+dotnet add package GraphQL.Server.Ui.Voyager<br />
 
-dotnet ef migrations add "init migration"
-dotnet ef database update
+dotnet ef migrations add "init migration"<br />
+dotnet ef database update<br />
 
+Api
 ![image](https://user-images.githubusercontent.com/193318/128758662-98331e19-bd25-4523-a660-94586e290ea8.png)
 
 List
